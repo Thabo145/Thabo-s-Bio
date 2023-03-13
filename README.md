@@ -1,2 +1,2 @@
 # Thabo-s-Bio
-Vss projext
+Vss project
